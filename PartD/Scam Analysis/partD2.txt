@@ -1,0 +1,9 @@
+["Active", "Scamming"]	2.2096952356679117e+22
+["Inactive", "Phishing"]	1.488677770799503e+19
+["Offline", "Fake ICO"]	1.35645756688963e+21
+["Offline", "Phishing"]	2.2451251236751494e+22
+["Offline", "Scam"]	0
+["Suspended", "Phishing"]	1.63990813e+18
+["Active", "Phishing"]	4.531597871497939e+21
+["Offline", "Scamming"]	1.6235500337815102e+22
+["Suspended", "Scamming"]	3.71016795e+18
